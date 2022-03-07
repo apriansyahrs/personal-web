@@ -320,3 +320,10 @@
     }
     
 }
+
+@media only screen and (max-width: 375px) {
+    .stripes .status {
+        font-size: 1.6rem;
+    }
+}
+
